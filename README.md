@@ -12,4 +12,3 @@ footer: 'uv tutorial'
 * Working on projects
 * Publishing packages
 * Migration
-* Integrations

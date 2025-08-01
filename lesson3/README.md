@@ -70,3 +70,22 @@ uv remove requests
 To upgrade a package, run `uv lock` with the `--upgrade-package` flag:
 ```sh
 uv lock --upgrade-package requests
+```
+
+---
+
+## Init Project
+```sh
+cd lesson3\temp-project
+uv init
+
+# add package
+uv add requests
+
+# remove package
+uv remove requests
+
+# also, you can build your source
+# check dist directory
+uv build
+```
