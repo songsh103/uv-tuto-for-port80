@@ -9,7 +9,7 @@ footer: 'uv tutorial'
 
 ## Running a script without dependencies
 ```sh
-uv run example.py
+uv run lesson2\example.py
 ```
 
 Arguments may be provided to the script
