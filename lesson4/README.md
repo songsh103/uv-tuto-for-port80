@@ -11,6 +11,7 @@ footer: 'uv tutorial'
 
 Init project on `temp-project`
 ```sh
+mkdir lesson4\temp-project
 cd lesson4\temp-project
 uv init
 ```

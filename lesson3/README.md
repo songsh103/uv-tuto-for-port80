@@ -76,6 +76,7 @@ uv lock --upgrade-package requests
 
 ## Init Project
 ```sh
+mkdir lesson3\temp-project
 cd lesson3\temp-project
 uv init
 
