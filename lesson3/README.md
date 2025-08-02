@@ -10,14 +10,14 @@ footer: 'uv tutorial'
 ## Creating a new project
 You can create a new Python project using the uv init command:
 ```sh
-uv init hello-world
-cd hello-world
+uv init lesson3\hello-world
+cd lesson3\hello-world
 ```
 
 Alternatively, you can initialize a project in the working directory:
 ```sh
-mkdir hello-world
-cd hello-world
+mkdir lesson3\hello-world
+cd lesson3\hello-world
 uv init
 ```
 
