@@ -22,10 +22,10 @@ footer: 'uv tutorial'
 winget install --id=astral-sh.uv  -e
 ```
 
-### mac
+### mac/linux
 ```sh
-# curl
+# mac/linux: curl
 curl -LsSf https://astral.sh/uv/install.sh | sh
-# brew
+# only mac If installed homebrew: brew
 brew install uv
 ```
