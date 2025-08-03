@@ -12,3 +12,20 @@ footer: 'uv tutorial'
 * Working on projects
 * Publishing packages
 * Migration
+
+---
+
+## Installing `uv`
+
+### Windows
+```sh
+winget install --id=astral-sh.uv  -e
+```
+
+### mac
+```sh
+# curl
+curl -LsSf https://astral.sh/uv/install.sh | sh
+# brew
+brew install uv
+```
